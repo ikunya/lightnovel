@@ -1,5 +1,18 @@
 # ラノベ読書リスト
 
+## レーベル
+* [ダッシュエックス文庫](https://github.com/ikunya/lightnovel/blob/master/dashxbunko.md)
+* [電撃文庫](https://github.com/ikunya/lightnovel/blob/master/dengekibunko.md)
+* [ファミ通文庫](https://github.com/ikunya/lightnovel/blob/master/famitsubunko.md)
+* [富士見ファンタジア文庫](https://github.com/ikunya/lightnovel/blob/master/fujimi-fantasiabunko.md)
+* [GA文庫](https://github.com/ikunya/lightnovel/blob/master/gabunko.md)
+* [HJ文庫](https://github.com/ikunya/lightnovel/blob/master/hjbunko.md)
+* [一迅社文庫](https://github.com/ikunya/lightnovel/blob/master/ichijinshabunko.md)
+* [講談社ラノベ文庫](https://github.com/ikunya/lightnovel/blob/master/koudansha-lanovebunko.md)
+* [MF文庫J](https://github.com/ikunya/lightnovel/blob/master/mfbunkoj.md)
+* [角川スニーカー文庫](https://github.com/ikunya/lightnovel/blob/master/sneakerbunko.md)
+* [創芸社クリア文庫](https://github.com/ikunya/lightnovel/blob/master/sougeishia-clearbunko.md)
+
 ## これは何？
 私いくやが2015年に購入あるいは読んだライトノベルを、レーベルごとに分けて記録していきます。
 
