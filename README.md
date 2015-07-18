@@ -6,6 +6,7 @@
 * [ファミ通文庫](https://github.com/ikunya/lightnovel/blob/master/famitsubunko.md)
 * [富士見ファンタジア文庫](https://github.com/ikunya/lightnovel/blob/master/fujimi-fantasiabunko.md)
 * [GA文庫](https://github.com/ikunya/lightnovel/blob/master/gabunko.md)
+* [ガガガ文庫](https://github.com/ikunya/lightnovel/blob/master/gagagabunko.md)
 * [HJ文庫](https://github.com/ikunya/lightnovel/blob/master/hjbunko.md)
 * [一迅社文庫](https://github.com/ikunya/lightnovel/blob/master/ichijinshabunko.md)
 * [講談社ラノベ文庫](https://github.com/ikunya/lightnovel/blob/master/koudansha-lanovebunko.md)
